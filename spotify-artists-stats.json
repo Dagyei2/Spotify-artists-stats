@@ -1,0 +1,242 @@
+[
+  {
+    "serial_number": 1,
+    "artist_name": "Drake",
+    "lead_streams": "50,162,292,808",
+    "feats": "19,246,513,666",
+    "tracks": 262,
+    "one_billion": 6,
+    "100_million": 130,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 2,
+    "artist_name": "Bad Bunny",
+    "lead_streams": "44,369,032,140",
+    "feats": "5,391,990,975",
+    "tracks": 163,
+    "one_billion": 5,
+    "100_million": 118,
+    "last_updated": "20.09.22"
+  },
+  {
+    "serial_number": 3,
+    "artist_name": "Ed Sheeran",
+    "lead_streams": "38,153,682,361",
+    "feats": "2,791,278,201",
+    "tracks": 240,
+    "one_billion": 10,
+    "100_million": 62,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 4,
+    "artist_name": "The Weeknd",
+    "lead_streams": "34,767,779,741",
+    "feats": "4,288,903,657",
+    "tracks": 186,
+    "one_billion": 8,
+    "100_million": 72,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 5,
+    "artist_name": "Taylor Swift",
+    "lead_streams": "32,596,728,109",
+    "feats": "424,053,296",
+    "tracks": 323,
+    "one_billion": 1,
+    "100_million": 96,
+    "last_updated": "20.09.22"
+  },
+  {
+    "serial_number": 6,
+    "artist_name": "Justin Bieber",
+    "lead_streams": "32,465,998,885",
+    "feats": "10,816,202,075",
+    "tracks": 225,
+    "one_billion": 6,
+    "100_million": 58,
+    "last_updated": "20.09.22"
+  },
+  {
+    "serial_number": 7,
+    "artist_name": "Ariana Grande",
+    "lead_streams": "32,287,682,040",
+    "feats": "2,052,297,828",
+    "tracks": 181,
+    "one_billion": 8,
+    "100_million": 71,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 8,
+    "artist_name": "Eminem",
+    "lead_streams": "30,431,861,291",
+    "feats": "4,165,031,640",
+    "tracks": 301,
+    "one_billion": 5,
+    "100_million": 65,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 9,
+    "artist_name": "Post Malone",
+    "lead_streams": "29,832,277,109",
+    "feats": "2,728,018,288",
+    "tracks": 98,
+    "one_billion": 9,
+    "100_million": 57,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 10,
+    "artist_name": "BTS",
+    "lead_streams": "28,533,458,128",
+    "feats": "323,205,288",
+    "tracks": 262,
+    "one_billion": 1,
+    "100_million": 98,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 11,
+    "artist_name": "J Balvin",
+    "lead_streams": "25,892,190,469",
+    "feats": "9,950,347,777",
+    "tracks": 242,
+    "one_billion": 3,
+    "100_million": 66,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 12,
+    "artist_name": "Kanye West",
+    "lead_streams": "25,535,119,184",
+    "feats": "5,767,153,127",
+    "tracks": 239,
+    "one_billion": 1,
+    "100_million": 63,
+    "last_updated": "20.09.22"
+  },
+  {
+    "serial_number": 13,
+    "artist_name": "Billie Eilish",
+    "lead_streams": "23,684,986,780",
+    "feats": 0,
+    "tracks": 65,
+    "one_billion": 4,
+    "100_million": 47,
+    "last_updated": "20.09.22"
+  },
+  {
+    "serial_number": 14,
+    "artist_name": "Juice WRLD",
+    "lead_streams": "23,114,066,243",
+    "feats": "3,751,941,085",
+    "tracks": 116,
+    "one_billion": 3,
+    "100_million": 60,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 15,
+    "artist_name": "Coldplay",
+    "lead_streams": "22,214,835,214",
+    "feats": 0,
+    "tracks": 299,
+    "one_billion": 5,
+    "100_million": 34,
+    "last_updated": "20.09.22"
+  },
+  {
+    "serial_number": 16,
+    "artist_name": "Dua Lipa",
+    "lead_streams": "22,186,290,470",
+    "feats": "349,750,231",
+    "tracks": 198,
+    "one_billion": 7,
+    "100_million": 36,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 17,
+    "artist_name": "Imagine Dragons",
+    "lead_streams": "21,812,218,476",
+    "feats": "65,400,698",
+    "tracks": 189,
+    "one_billion": 4,
+    "100_million": 41,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 18,
+    "artist_name": "XXXTENTACION",
+    "lead_streams": "21,726,799,289",
+    "feats": "2,664,663,104",
+    "tracks": 144,
+    "one_billion": 7,
+    "100_million": 44,
+    "last_updated": "18.09.22"
+  },
+  {
+    "serial_number": 19,
+    "artist_name": "Ozuna",
+    "lead_streams": "21,119,272,574",
+    "feats": "7,514,655,612",
+    "tracks": 215,
+    "one_billion": 1,
+    "100_million": 51,
+    "last_updated": "17.09.22"
+  },
+  {
+    "serial_number": 20,
+    "artist_name": "Khalid",
+    "lead_streams": "20,973,735,166",
+    "feats": "2,923,419,376",
+    "tracks": 119,
+    "one_billion": 7,
+    "100_million": 40,
+    "last_updated": "15.09.22"
+  },
+  {
+    "serial_number": 21,
+    "artist_name": "Rihanna",
+    "lead_streams": "20,761,226,681",
+    "feats": "6,677,097,087",
+    "tracks": 278,
+    "one_billion": 2,
+    "100_million": 46,
+    "last_updated": "19.09.22"
+  },
+  {
+    "serial_number": 22,
+    "artist_name": "Travis Scott",
+    "lead_streams": "20,566,427,073",
+    "feats": "9,662,107,113",
+    "tracks": 113,
+    "one_billion": 4,
+    "100_million": 49,
+    "last_updated": "17.09.22"
+  },
+  {
+    "serial_number": 23,
+    "artist_name": "Maroon 5",
+    "lead_streams": "19,952,566,778",
+    "feats": "18,447",
+    "tracks": 240,
+    "one_billion": 7,
+    "100_million": 31,
+    "last_updated": "17.09.22"
+  },
+  {
+    "serial_number": 24,
+    "artist_name": "David Guetta",
+    "lead_streams": "19,104,897,589",
+    "feats": "1,131,603,410",
+    "tracks": 705,
+    "one_billion": 1,
+    "100_million": 46,
+    "last_updated": "19.09.22"
+  }
+]
